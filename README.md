@@ -232,12 +232,4 @@ The visual walkthrough screenshots are still available in commit history and can
 
 ---
 
-## 🙌 Author
 
-Built by **SuryaX2**.
-
-If you’d like, I can also generate:
-
-- a polished **Architecture Diagram** section
-- a **Postman collection** + quickstart testing guide
-- a **resume-ready project summary** snippet
