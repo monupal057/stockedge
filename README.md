@@ -1,6 +1,6 @@
-# 📦 InventoryPro — Full-Stack Inventory Management System
+# 📦 StockEdge — Full-Stack Inventory Management System
 
-InventoryPro is a production-style **MERN** inventory management platform with authentication, role-based access control, product lifecycle management, purchase/order workflows, reporting dashboards, invoice generation, and automated low-stock alerts.
+ StockEdge is a production-style **MERN** inventory management platform with authentication, role-based access control, product lifecycle management, purchase/order workflows, reporting dashboards, invoice generation, and automated low-stock alerts.
 
 > This repository contains:
 >
